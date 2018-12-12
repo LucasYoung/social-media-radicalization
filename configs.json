@@ -1,0 +1,16 @@
+{
+    "youtube_key": "Insert your credential here",
+    "youtube_api_service_name": "Insert your credential here",
+    "youtube_api_version": "Insert your credential here",
+
+    "reddit_client_id": "Insert your credential here",
+    "reddit_client_secret": "Insert your credential here",
+    "reddit_user_agent": "Insert your credential here",
+    "reddit_username": "Insert your credential here",
+    "reddit_password": "Insert your credential here",
+
+    "twitter_consumer_key": "Insert your credential here",
+    "twitter_consumer_secret": "Insert your credential here",
+    "twitter_access_token": "Insert your credential here",
+    "twitter_access_token_secret": "Insert your credential here"
+}
